@@ -1,3 +1,3 @@
 # COP3003Project
 
-A Blazor app
+A game
